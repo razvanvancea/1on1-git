@@ -4,7 +4,7 @@ const label = Selector('label');
 
 class Feature {
     constructor (text) {
-        this.label    = label.withText(text);
+        this.label    = label.withTexqweqwet(text);
         this.checkbox = this.label.find('input[type=checkbox]');
     }
 }

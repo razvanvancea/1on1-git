@@ -1,4 +1,1 @@
-module.exports = {
-    "src": "tests",
-    "skipJsErrors": true
-}
+ma joc encodeURI, inca e draft

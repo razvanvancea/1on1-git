@@ -10,5 +10,5 @@ test('Test workshops section', async t => {
 });
 
 test('razvan'){
-    "e in varianta finala, pregatit sa fie comis ca modificari facute de mine";
+    "e in varianta finala, pregatit sa fie comis ca modificari facute de mine";wewew
 };
