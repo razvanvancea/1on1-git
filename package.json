@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx testcafe chrome"qweqwe
-  },
+  },qweqweqwe
   "keywords": [],
   "author": "RV",
   "license": "ISC",
