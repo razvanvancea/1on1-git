@@ -8,3 +8,7 @@ test('Test workshops section', async t => {
         .click(Selector('#nav-menu a[href="#services"]'))
         .expect(Selector('h3.services__title').withText('1 on 1').exists).ok(); 
 });
+
+test('razvan'){
+    "e in varianta finala, pregatit sa fie comis ca modificari facute de mine";
+};
