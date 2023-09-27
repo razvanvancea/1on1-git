@@ -1,1 +1,1 @@
-ma joc encodeURI, inca e draft
+de comis
